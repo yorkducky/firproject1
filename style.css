@@ -18,3 +18,18 @@ div{
     border:2px solid blanchedalmond;
     
 }
+.div{
+    margin:20px;
+    background-color: cadetblue;
+    color:beige;
+    padding:10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.div li{
+    display: inline-block;
+    color:aquamarine;
+    padding: 20px;
+    list-style:none;
+}

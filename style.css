@@ -32,4 +32,10 @@ div{
     color:aquamarine;
     padding: 20px;
     list-style:none;
+}.class3{
+  box-sizing: border-box;
+  margin:10px;
+  padding:10px;
+  border:2px;
+  background-color: rgb(2, 38, 38);
 }
